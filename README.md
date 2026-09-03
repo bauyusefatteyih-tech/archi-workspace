@@ -8,14 +8,17 @@ Repository: <https://github.com/bauyusefatteyih-tech/archi-workspace>
 
 Download the complete Windows x64 package:
 
-**[Archi-Workspace-Windows-x64-v1.0.0.zip](https://github.com/bauyusefatteyih-tech/archi-workspace/releases/download/workspace-v1.0.0/Archi-Workspace-Windows-x64-v1.0.0.zip)**
+**[Archi-Workspace-Windows-x64-v1.0.1.zip](https://github.com/bauyusefatteyih-tech/archi-workspace/releases/download/workspace-v1.0.1/Archi-Workspace-Windows-x64-v1.0.1.zip)**
 
 1. Extract the ZIP to a normal folder.
 2. Double-click `Setup-and-Start-Archi.cmd`.
 3. Wait for Archi's first launch; plug-in initialization can take several minutes.
 4. The included collaboration-flow sample opens automatically.
+5. To view the browser report, double-click `Open-Published-Example.cmd`.
 
 The package includes Archi 5.9, coArchi 0.9.7, the EAKG knowledge-graph plug-in, the Archimesh client plug-in, a real sample model, a published HTML example, and the illustrated PDF tutorial. It contains no passwords, tokens, or user-specific settings.
+
+`Create Knowledge Graph` now always opens the model-selection wizard and launches the generated graph in the default browser after a successful export. The Collaboration menu manages the shared Git model; it does not publish HTML. The separate browser-report launcher opens the read-only published artefact.
 
 ## First-time setup
 
