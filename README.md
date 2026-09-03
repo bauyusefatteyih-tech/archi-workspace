@@ -1,16 +1,29 @@
 # Archi Workspace
 
-Private shared Archi model for the Concillium Partners architecture team.
+Public shared Archi model and ready-to-run toolkit for the Concillium Partners architecture team.
 
 Repository: <https://github.com/bauyusefatteyih-tech/archi-workspace>
 
+## One-download Windows setup
+
+Download the complete Windows x64 package:
+
+**[Archi-Workspace-Windows-x64-v1.0.0.zip](https://github.com/bauyusefatteyih-tech/archi-workspace/releases/download/workspace-v1.0.0/Archi-Workspace-Windows-x64-v1.0.0.zip)**
+
+1. Extract the ZIP to a normal folder.
+2. Double-click `Setup-and-Start-Archi.cmd`.
+3. Wait for Archi's first launch; plug-in initialization can take several minutes.
+4. The included collaboration-flow sample opens automatically.
+
+The package includes Archi 5.9, coArchi 0.9.7, the EAKG knowledge-graph plug-in, the Archimesh client plug-in, a real sample model, a published HTML example, and the illustrated PDF tutorial. It contains no passwords, tokens, or user-specific settings.
+
 ## First-time setup
 
-1. Ask the repository owner to add your GitHub username as a collaborator.
-2. Install Archi 5.9 and the coArchi 0.9.7 collaboration plug-in.
-3. In Archi, choose the coArchi command to import a remote model.
-4. Use `https://github.com/bauyusefatteyih-tech/archi-workspace.git` as the repository URL.
-5. Authenticate with your own GitHub username and personal access token. Never share or commit tokens.
+1. Use the complete package above; no separate Archi or plug-in installation is required.
+2. In Archi, choose the coArchi command to import a remote model.
+3. Use `https://github.com/bauyusefatteyih-tech/archi-workspace.git` as the repository URL.
+4. Public read access does not require repository membership.
+5. To publish changes, ask the repository owner for contributor access and authenticate with your own GitHub personal access token. Never share or commit tokens.
 
 ## Team workflow
 
