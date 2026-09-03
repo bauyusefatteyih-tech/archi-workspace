@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pushes and pulls"
+    id="id-example-rel-syncs-to"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-example-coarchi.xml#id-example-coarchi"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-example-github-repository.xml#id-example-github-repository"/>
+</archimate:AssociationRelationship>

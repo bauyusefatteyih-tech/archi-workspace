@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="publishes from"
+    id="id-example-rel-publishes-from"
+    directed="true">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-example-github-repository.xml#id-example-github-repository"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-example-report-publisher.xml#id-example-report-publisher"/>
+</archimate:AssociationRelationship>

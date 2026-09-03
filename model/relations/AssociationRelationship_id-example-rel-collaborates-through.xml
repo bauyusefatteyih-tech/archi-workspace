@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="collaborates through"
+    id="id-example-rel-collaborates-through"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-example-archi-desktop.xml#id-example-archi-desktop"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-example-coarchi.xml#id-example-coarchi"/>
+</archimate:AssociationRelationship>

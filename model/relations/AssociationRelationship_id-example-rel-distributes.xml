@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="can distribute through"
+    id="id-example-rel-distributes"
+    directed="true">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-example-html-report.xml#id-example-html-report"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-example-sharepoint.xml#id-example-sharepoint"/>
+</archimate:AssociationRelationship>

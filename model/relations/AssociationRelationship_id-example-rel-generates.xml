@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="generates"
+    id="id-example-rel-generates"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-example-report-publisher.xml#id-example-report-publisher"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-example-html-report.xml#id-example-html-report"/>
+</archimate:AssociationRelationship>
